@@ -1,0 +1,11 @@
+domestic,aquatic,predator,toothed,venomous,fins,tail,hair,catsize,type
+false,false,true,true,false,false,false,true,true,mammal
+false,false,true,true,false,false,false,true,false,mammal
+false,true,true,true,false,true,true,false,false,fish
+false,false,true,true,false,false,false,true,true,mammal
+false,false,true,true,false,false,true,true,true,mammal
+false,false,false,true,false,false,true,true,true,mammal
+true,false,false,true,false,false,true,true,true,mammal
+false,true,false,true,false,true,true,false,false,fish
+false,true,true,true,false,true,true,false,false,fish
+true,false,false,true,false,false,false,true,false,mammal
